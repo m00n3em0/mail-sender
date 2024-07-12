@@ -1,0 +1,3 @@
+SleepingTime : 2
+Threads : 3
+Rotation : True
